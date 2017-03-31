@@ -1,6 +1,10 @@
-This fork was developed to allow unRAID OS users to run Krypton without have a graphics card on the machine running unraid.  Information was used from commits from the following pull, and then compiled into LibreELEC 8.0.
+This fork was developed to allow unRAID OS users to run LibreELEC - Krypton 17.1 on a VM without having a graphics card on the machine running unRAID.  Changes were used from commits from the following pull:
 
 https://github.com/LibreELEC/LibreELEC.tv/pull/1287
+
+The commits were applied to a new build which is running off of the LibreELEC 8.0 branch:
+
+https://github.com/LibreELEC/LibreELEC.tv/tree/libreelec-8.0
 
 **********************************************************
 
