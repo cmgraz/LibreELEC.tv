@@ -1,3 +1,9 @@
+This fork was developed to allow unRAID OS users to run Krypton without have a graphics card on the machine running unraid.  Information was used from commits from the following pull, and then compiled into LibreELEC 8.0.
+
+https://github.com/LibreELEC/LibreELEC.tv/pull/1287
+
+**********************************************************
+
 # LibreELEC
 
 LibreELEC is a 'Just enough OS' Linux distribution for running the award-winning [Kodi](http://kodi.tv) software on popular mediacentre hardware. LibreELEC is a conservative fork of the popular [OpenELEC](http://openelec.tv) project with a stronger focus on pre-release testing and post-release change management. Further information on the project can be found on the [LibreELEC website](https://libreelec.tv).
