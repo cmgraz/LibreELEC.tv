@@ -1,4 +1,6 @@
-This fork was developed to allow unRAID OS users to run LibreELEC - Krypton 17.1 on a VM without having a graphics card on the machine running unRAID.  Changes were used from commits from the following pull:
+This fork was developed to allow unRAID OS users to run LibreELEC - Krypton 17.1 on a VM without having a graphics card on the machine running unRAID.  This has only been tested on unRAID 6.2.4.  Your mileage may vary.
+
+Changes were used from commits from the following pull:
 
 https://github.com/LibreELEC/LibreELEC.tv/pull/1287
 
